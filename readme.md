@@ -16,7 +16,7 @@ To apply these styles to your Zen Browser profile, follow these steps:
 2. Navigate to `about:support`. 
 3. Find the **Profile Folder** entry and click **Open Folder**.
 4. Navigate to `chrome\zen-themes\` and open the most recently modified folder.
-5. Delete `preferences.json`, if any, and replace the contents of `chrome.css` from this repo's [chrome.css](https://github.com/jayjanii/Zen-URL-Center).
+5. Delete `preferences.json`, if any, and replace the contents of `chrome.css` from this repo's [chrome.css](https://github.com/jayjanii/Zen-URL-Center/blob/main/chrome.css).
 6. Navigate to Zen Settings > Zen Mods > and toggle off and on the mod you just installed.
 
 > [!NOTE]
