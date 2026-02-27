@@ -20,7 +20,7 @@ To apply these styles to your Zen Browser profile, follow these steps:
 6. Navigate to Zen Settings > Zen Mods > and toggle off and on the mod you just installed.
 
 > [!NOTE]
-> This mod's customizations will be guised under the name of the one you installed.
+> These customizations will *appear* under the name of the mod you installed.
 
 ---
 
