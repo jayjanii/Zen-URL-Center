@@ -26,7 +26,7 @@ To apply these styles to your Zen Browser profile, follow these steps:
 
 ## Feature
 
-* **Floating URL Bar:** A centered, CLI-inspired address bar that appears only when focused or hovered.
+* **Floating URL Bar:** A centered, CLI-inspired address bar.
 
 ---
 
