@@ -1,0 +1,30 @@
+@-moz-document url-prefix("chrome:") {
+
+  #urlbar-input, .urlbar-input {
+    font-family: "JetBrainsMono Nerd Font", monospace !important;
+    font-weight: 700 !important;
+    color: var(--lwt-text-color) !important; 
+  }
+
+  .urlbar-input {
+    text-align: center !important;
+  }
+
+  .urlbar-input[aria-expanded="false"] {
+    text-align: center !important;
+  }
+
+  .urlbar-input[aria-expanded="true"] {
+    text-align: left !important;
+  }
+
+  #urlbar-container {
+    margin-inline: auto !important; 
+    max-width: 700px !important; 
+  }
+
+  #urlbar {
+    margin: 0 auto !important;
+  }
+
+}
