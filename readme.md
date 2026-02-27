@@ -4,10 +4,11 @@ This repository contains custom `userChrome.css` configurations for [Zen Browser
 
 ---
 
-![### Before](assets/before.png)
+### Before
+![Before](assets/before.png)
 
-![### After](assets/after.png)
-
+### After
+![After](assets/after.png)
 
 
 ## Setup Instructions
